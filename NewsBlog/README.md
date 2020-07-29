@@ -1,4 +1,4 @@
-# Calculator
+# NewsBlog
 A bare minimum News Blog built using python tkinter.
 
 # Screenshot
