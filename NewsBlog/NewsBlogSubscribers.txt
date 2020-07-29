@@ -1,0 +1,3 @@
+('fari', 'fari@gmail.com', '9301249032')
+('reyan', 'reyan@gmail.com', '1234567890')
+('alraaz', 'alraaz@gmail.com', '213124342`')
