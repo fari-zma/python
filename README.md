@@ -1,5 +1,5 @@
-## *Python projects*
-Three small projects:
+## **Python projects**
+Four small projects:
 * [ImageGallery](ImageGallery)
 * [NewsBlog](NewsBlog)
 * [Calculator](Calculator)
