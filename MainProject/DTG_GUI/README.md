@@ -10,5 +10,5 @@ Directory Tree Generator that generate the tree-like structure to visualize the 
 <img src='screenshots/02.png'>
 <img src='screenshots/03.png'>
 <img src='screenshots/04.png'>
-<img src='screenshots/05.png'>
-<img src='screenshots/06.png'>
+<img src='screenshots/05.jpg'>
+<img src='screenshots/06.jpg'>
