@@ -8,8 +8,7 @@ Directory Tree Generator that generate the tree-like structure to visualize the 
 
 # Screenshot
 <img src='screenshots/01.png'>
-<img src='screenshots/02.png'>
-
-*Saves Images:*
+<img src='screenshots/02.png'><br>
+*Saves Images:*<br>
 <img src='screenshots/03.png'>
 <img src='screenshots/04.png'>
